@@ -1,0 +1,6 @@
+got packages:
+- requests
+- minsearch
+- openai
+- jupyter
+- python-dotenv
